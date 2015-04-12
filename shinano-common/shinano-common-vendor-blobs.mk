@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/shinano-common/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/sony/shinano-common/proprietary/bin/mlog_qmi_service:system/bin/mlog_qmi_service \
     vendor/sony/shinano-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/sony/shinano-common/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/sony/shinano-common/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/sony/shinano-common/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/sony/shinano-common/proprietary/bin/qseecomd:system/bin/qseecomd \
@@ -251,7 +250,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/shinano-common/proprietary/vendor/lib/libmmjpeg.so:system/vendor/lib/libmmjpeg.so \
     vendor/sony/shinano-common/proprietary/vendor/lib/libmmqjpeg_codec.so:system/vendor/lib/libmmqjpeg_codec.so \
     vendor/sony/shinano-common/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
-    vendor/sony/shinano-common/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
     vendor/sony/shinano-common/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
     vendor/sony/shinano-common/proprietary/vendor/lib/libqdi.so:system/vendor/lib/libqdi.so \
     vendor/sony/shinano-common/proprietary/vendor/lib/libqdp.so:system/vendor/lib/libqdp.so \
